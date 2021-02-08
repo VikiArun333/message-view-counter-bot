@@ -2,9 +2,9 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 
 
-api_id = api id
-api_hash = 'api hash'
-token = "token"
+api_id = 1569271
+api_hash = 'dc878e6f9f5c8af88c228477754683eb'
+token = "1666983107:AAEyLy6p7NyQu5aQn4uFw9n-YoknFyZz6Cs"
 
 
 Client = Client("messageviewcounterbot", api_id, api_hash, bot_token=token)
